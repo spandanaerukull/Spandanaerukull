@@ -25,7 +25,7 @@ I am actively learning and building skills in **AWS, Docker, Kubernetes, Terrafo
 - Terraform (Beginner)
 - Git & GitHub
 
----
+-----
 
 ## 📌 Featured Projects
 
